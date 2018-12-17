@@ -1,0 +1,64 @@
+.header{
+	margin-left: auto;
+	margin-right: auto;
+	padding:0;
+}
+.mybody{
+	margin-left: auto;
+	padding:10px;
+	font-size:16px;
+	color: #ffffff;
+	background-image:url('../images/background2.jpg');
+}
+body{
+	margin-left: 20px;
+	background-image:url('../images/div-background3.jpg');
+}
+.navbar-brand{
+	padding: 0px 0px;
+
+}
+.title{
+	padding-top: 10px;
+	background: none;
+	color: #ffff00;
+	background: none;
+	
+}
+ul li a:hover{
+
+	background: #7be19f;
+}
+
+.page-heading{
+	background: none;
+	padding: 5px;
+}
+.lpadding{
+	padding-left: 30px;
+}
+.myicons{
+	background: #ffffff; 
+	border-style: solid; 
+	border-color: #ffffff;
+}
+td a{
+	font-size:14px;
+	color: #ffffff;
+}
+.left_panel{
+	background-color: #7FB3D5;
+}
+.mycard{
+	background: none;
+	border: none;
+	
+}
+.myfont{
+	margin-left: auto;
+	padding:10px;
+	font-size:16px;
+	color: #ffffff;
+}
+
+
